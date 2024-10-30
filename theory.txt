@@ -1,0 +1,18 @@
+Angular
+------------
+Angular is a development platform for building a single page application for
+mobile and desktop.
+
+Angular is a javascript framework and written using typescript.
+
+It uses typescript & HTML to build applications.
+
+It comes with features like components, directives, forms, pipes,
+services, dependency injection etc...
+
+Angular Versions
+-------------------
+Early Version of Angular was named as Angular2 later it was renamed to Angular.
+
+
+

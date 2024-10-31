@@ -14,5 +14,21 @@ Angular Versions
 -------------------
 Early Version of Angular was named as Angular2 later it was renamed to Angular.
 
+Angular developed and maintained by google. It has a large community due to which
+we can find help on web easily.
+
+Features of Angular
+--------------------
+1. Two-way DataBinding - Changes made in the view(webpage) is automatically updated in the
+component class and vice versa.
+
+2.Powerful routing support - Angular Powerfull routing engine loads the page 
+asynchronously on the same page (index.html) enabling us to create single page application.
+
+3. Expressive HTML - Angular enables us to use programming constructs like
+if conditions, for loop, etc...to render and control how the html page looks and works.
+
+4. Modular by Design - Angular follows modular design, We can create Angular
+modules to better organize and manage our codebase.
 
 

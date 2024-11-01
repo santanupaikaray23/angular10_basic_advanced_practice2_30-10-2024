@@ -31,4 +31,22 @@ if conditions, for loop, etc...to render and control how the html page looks and
 4. Modular by Design - Angular follows modular design, We can create Angular
 modules to better organize and manage our codebase.
 
+The component
+--------------
+app.component.ts is the component that is added to the project by the Angular CLI
+
+It consists of three main parts
+----------------------------------
+1. Import Statement
+2. Class Decorator
+3. Class
+
+Import Statement
+---------------------
+Import statement is used to import the libraries that are used in our component class.
+
+Class Decorator
+-----------------
+Our component is decorated with @Component Decorator which is part of the @Angular/core modules.
+
 

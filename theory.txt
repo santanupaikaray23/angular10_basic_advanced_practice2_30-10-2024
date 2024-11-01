@@ -1,3 +1,5 @@
+Completed Video : 6th
+-----------------------
 Angular
 ------------
 Angular is a development platform for building a single page application for
@@ -48,5 +50,17 @@ Import statement is used to import the libraries that are used in our component 
 Class Decorator
 -----------------
 Our component is decorated with @Component Decorator which is part of the @Angular/core modules.
+
+class
+--------
+Component is a simple class we define using the export keyword.
+
+Add Bootstarp to Angular application
+-------------------------------------
+Ctreate new angular application  - ng new angular-Bootstarp-app
+npm install Bootstarp
+go to style.css file and add @import '../node_modules/Bootstarp/dist/css/bootstarp.min.css'
+
+
 
 

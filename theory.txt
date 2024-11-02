@@ -61,6 +61,25 @@ Ctreate new angular application  - ng new angular-Bootstarp-app
 npm install Bootstarp
 go to style.css file and add @import '../node_modules/Bootstarp/dist/css/bootstarp.min.css'
 
+Angular Directives:
+--------------------
+Angular Directives is to manipulate Dom Element.
 
+There are 2 types to directives:
+---------------------------------
+(1)Structural Directives
+(2)Attribute directives
+
+(1)Structural Directives
+---------------------------
+*ngFor
+*ngSwitch
+*ngIF
+
+(2)Attribute Directives:
+------------------------------
+ngModel
+ngClass
+ngStyle
 
 

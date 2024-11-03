@@ -1,4 +1,4 @@
-Completed Video : 6th
+Completed Video : 8th
 -----------------------
 Angular
 ------------
@@ -72,9 +72,9 @@ There are 2 types to directives:
 
 (1)Structural Directives
 ---------------------------
-*ngFor
-*ngSwitch
-*ngIF
+*ngFor(Itrate over the array)
+*ngSwitch(It is use for hiding and showes the element)
+*ngIF(It is also use for hiding and showing the element from the arrays)
 
 (2)Attribute Directives:
 ------------------------------

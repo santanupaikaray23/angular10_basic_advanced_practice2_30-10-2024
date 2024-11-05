@@ -1,4 +1,4 @@
-Completed Video : 9th
+Completed Video : 45th
 -----------------------
 Angular
 ------------
@@ -81,5 +81,21 @@ There are 2 types to directives:
 ngModel
 ngClass
 ngStyle
+
+(3)We can create also Custome Directives.
+
+(4)Pipes
+-----------
+These are used to transform the data.
+
+we can pass arguments to pipe and chain pipes.
+
+create custom pipes
+
+Inbuilt pipes - currency pipe, data pipe, number pipe, percent pipe,
+slice pipe, sclice pipe etc.
+
+
+
 
 
